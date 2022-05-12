@@ -1,0 +1,9 @@
+[user]
+	email = merirosvo@kyy.ninja
+	name = tpolonen
+[credential]
+	credentialStore = cache
+	cacheOptions = --timeout 36000
+	helper = /usr/local/bin/git-credential-manager-core
+[credential "https://dev.azure.com"]
+	useHttpPath = true
