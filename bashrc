@@ -121,3 +121,4 @@ fi
 # exports for 42 header
 export USER="tpolonen"
 export MAIL="tpolonen@student.hive.fi"
+. "$HOME/.cargo/env"
